@@ -39,3 +39,24 @@ https://github.com/EliverLara/Nordic/tree/master/kde
 https://wallpapers-clan.com/desktop-wallpapers/dark-anime-girl-with-red-eyes/
 
 
+
+
+# Flatpak
+
+Fluxos e modelagem de dados 
+
+https://flathub.org/apps/org.gaphor.Gaphor
+
+
+Editor de imagem minimalista
+https://flathub.org/apps/page.kramo.Sly
+
+Visualizador de imagens minimalists
+https://flathub.org/apps/com.interversehq.qView
+
+Depois de configurar o sistema, faça backup das personalizações
+https://flathub.org/apps/io.github.vikdevelop.SaveDesktop
+
+
+
+
